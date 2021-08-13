@@ -1,0 +1,19 @@
+.bg-image{
+    background-image: url(w6.jpg);
+    height: 100%;
+  
+
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+body {
+    background-image: url(w16.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-body{
+    color: black;
+  }
